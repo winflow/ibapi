@@ -16,7 +16,7 @@ IBAPI is a Maven project. Please use the following commands to build:
 
 Below is the information about the project:
 * ```com.ib.client``` - Group ID
-* ```ibapi``` - Artificat ID
+* ```ibapi``` - Artifact ID
 * ```1.0``` - Version #
 
 ### Play Framework
